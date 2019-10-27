@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "name": "suessu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:5tarlight/suessu.git",
+  "author": "Kim Kyu San <developerstarlight@gmail.com>",
+  "license": "AGPL-3.0"
+}
